@@ -1,0 +1,38 @@
+/* Estilos de ejemplo para  web Responsive Design con Skeleton
+
+Autor: @UchihaCFC;
+Web: http//www.uchiha.es;
+
+*/
+
+article{
+	height: 110px
+}
+
+article:nth-child(even) {
+	color:#ddd;
+	background:#7399DE;
+	
+}
+
+article:nth-child(odd){
+	background: #ddd;
+}
+
+footer{
+   color:#ddd;
+   background: #000;
+}
+
+header {
+	height: 120px;
+	background: #ddd;
+}
+
+nav {
+	color:#FFF;
+	background:#000;
+	height: 40px;
+
+}
+
